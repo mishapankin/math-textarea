@@ -1,3 +1,7 @@
+# Math text area
+
+A react component from Editor.js with addition of katex-based plugin.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
